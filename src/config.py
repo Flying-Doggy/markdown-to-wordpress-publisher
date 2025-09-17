@@ -28,6 +28,6 @@ DEFAULT_POST_STATUS = "draft"  # 默认为草稿，避免误发布
 DEFAULT_BLOG_ID = 0
 
 # WordPress用户信息配置
-WP_URL = 'http://82.157.3.143'
-WP_USERNAME = 'gujianhui'
-WP_PASSWD = '1321SFSDFgasdg12,3.'
+WP_URL = ''
+WP_USERNAME = ''
+WP_PASSWD = ''
