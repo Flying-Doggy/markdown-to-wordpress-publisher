@@ -22,7 +22,7 @@
 ## 安装步骤
 1. **克隆项目**
    ```bash
-   git clone https://github.com/your-username/markdown-to-wordpress-publisher.git
+   git clone https://github.com/Flying-Doggy/markdown-to-wordpress-publisher.git
    cd markdown-to-wordpress-publisher
    ```
 
