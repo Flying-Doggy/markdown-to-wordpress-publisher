@@ -12,7 +12,7 @@ from xmlrpc.client import Binary
 import logging
 from wordpress_xmlrpc.methods.posts import NewPost
 from wordpress_xmlrpc.methods.media import UploadFile
-from .parser import Asset, MD_ParsedResult
+from .markdown_parser import Asset, MD_ParsedResult
 from .utils import setup_logging
 from .config import DEFAULT_BLOG_ID, DEFAULT_POST_STATUS, SUPPORTED_IMAGE_TYPES
 

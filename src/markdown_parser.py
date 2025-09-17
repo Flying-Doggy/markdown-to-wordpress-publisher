@@ -55,6 +55,7 @@ class MD_ParsedResult:
     dir_path: str
     external_links: List[str] = field(default_factory=list)
     local_assets: List[Asset] = field(default_factory=list)
+    cover_path: str = None
     cover_image: Optional[Asset] = None
     front_matter: Dict[str, str] = field(default_factory=dict)
 

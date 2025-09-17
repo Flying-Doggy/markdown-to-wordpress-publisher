@@ -5,7 +5,7 @@
 
 import argparse
 import os
-from .parser import MarkdownParser
+from .markdown_parser import MarkdownParser
 from .uploader import WordPressUploader,Asset
 from .utils import setup_logging, process_list_args
 from .config import DEFAULT_POST_STATUS, WP_URL, WP_USERNAME, WP_PASSWD
