@@ -1,2 +1,2 @@
-python-wordpress-xmlrpc>=2.3
-typing-extensions>=4.8.0
+python-wordpress-xmlrpc
+typing-extensions

@@ -22,7 +22,7 @@
 ## 安装步骤
 1. **克隆项目**
    ```bash
-   git clone https://github.com/your-username/markdown-to-wordpress-publisher.git
+   git clone https://github.com/Flying-Doggy/markdown-to-wordpress-publisher.git
    cd markdown-to-wordpress-publisher
    ```
 
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 3. **使用方法**
 ```bash
 # 发布Markdown文件为草稿（默认状态）
-python -m src.main ./my_article.md \
+python publish_markdown_to_wordpress.py ./my_article.md \
   --url https://your-wordpress-site.com \
   --username your-wp-username \
   --password your-wp-password \
